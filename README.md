@@ -12,9 +12,10 @@ A Python-based analysis tool for processing Italian Serie A match results, calcu
 ## How to Run
 
 ```bash
-git clone https://github.com/ipolitelli9/Serie-A-stats-analyzer.git
+git clone [https://github.com/ipolitelli9/Serie-A-stats-analyzer.git](https://github.com/ipolitelli9/Serie-A-stats-analyzer.git)
 cd Serie-A-stats-analyzer
 python main.py
+
 
 ## Project Structure
 
